@@ -1,2 +1,2 @@
 # melongDL
-(melong)[http://boltmelon.co.kr/text/]
+[melong](http://boltmelon.co.kr/text/)
